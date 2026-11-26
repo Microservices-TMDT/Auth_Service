@@ -1,3 +1,5 @@
+<img width="1421" height="689" alt="image" src="https://github.com/user-attachments/assets/dcaa68c3-a31c-4392-b754-722bf82b97a0" />
+
 # Auth Service
 
 Microservice xác thực và phân quyền trong hệ thống thương mại điện tử. Tích hợp với **Keycloak** làm Identity Provider (IdP), cung cấp các endpoint đăng ký, đăng nhập. Phân quyền RBAC được thực thi tại **API Gateway**.
