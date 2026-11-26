@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: auth_service
+
+server:
+  port: 8086
+
+keycloak:
+  auth-server-url: http://localhost:8080
+  realm: linhlt-2026
+  resource: backend
+  credentials:
+    secret: 'G3syfxDVkNrojK1YwFe3dWvOSVyH8otE'
+
